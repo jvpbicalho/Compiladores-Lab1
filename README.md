@@ -40,7 +40,7 @@ O processo de compilação normalmente é dividido nas seguintes fases:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 - João Victor Pereira Bicalho
 - Mateus Munhoz Guimarães
