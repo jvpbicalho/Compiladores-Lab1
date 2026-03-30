@@ -36,7 +36,7 @@ O processo de compilação normalmente é dividido nas seguintes fases:
 **Compiladores**
 
 - Curso: Ciência da Computação  
-- Universidade: (Sua Universidade)
+- Universidade: PUC-SP
 
 ---
 
